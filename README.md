@@ -22,3 +22,9 @@
   <a href="https://www.linkedin.com/in/dieovane-campos-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-504714244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+![Snake animation](https://github.com/Dieovane/Dieovane/blob/output/github-contribution-grid-snake.svg)!
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Dieovane&repo=Dieovane&theme=react)](https://github.com/Dieovane/Dieovane)
