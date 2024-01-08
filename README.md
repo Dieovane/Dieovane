@@ -23,8 +23,3 @@
   
 </div>
 
-
-![Snake animation](https://github.com/Dieovane/Dieovane/blob/output/github-contribution-grid-snake.svg)!
-
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Dieovane&repo=Dieovane&theme=react)](https://github.com/Dieovane/Dieovane)
