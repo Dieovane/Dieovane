@@ -15,3 +15,12 @@
   
 </div>
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Dieovane&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Dieovane&icon=3&color=1)](https://visitcount.itsvg.in)
+
+## ☕❤️ Você pode ajudar me dando um café enquanto eu estudo!
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/dieovane) 
