@@ -2,7 +2,7 @@
 
 👽 - Estou no início da faculdade, e ainda não tenho muita experiência, mas sempre vou ir atualizando meus estudos e meus projetos pessoais aqui no meu perfil!
 
-👇 - Essas são algumas linguagens que eu estou estudando:
+👇 - Essas são algumas tecnologias que eu estou estudando:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,visualstudio)](https://skillicons.dev)
   
