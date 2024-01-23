@@ -16,9 +16,6 @@
 </div>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dieovane&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Dieovane&icon=3&color=1)](https://visitcount.itsvg.in)
 
