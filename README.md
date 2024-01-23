@@ -7,10 +7,13 @@
 - 👽 Estou no início da faculdade aprendendo constantemente! Estou sempre colocando alguns exercícios / projetos que estudo por aqui...
 
 - 👇 Essas são algumas tecnologias que eu estou estudando:
+  <br><br>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,visualstudio)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,visualstudio)](https://skillicons.dev)
-  
-  ##
+
+  <br><br>
+
+## Contact
  
 <div> 
   <a href="https://instagram.com/dieovane" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
