@@ -10,9 +10,7 @@
   <br><br>
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,visualstudio)](https://skillicons.dev)
 
-
   <br><br>
-
 ## Contact
  
 <div> 
