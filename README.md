@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Dieovane Campos</h1>
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 [![](https://visitcount.itsvg.in/api?id=Dieovane&icon=3&color=1)](https://visitcount.itsvg.in)
 
@@ -8,7 +8,7 @@
 
 - 👇 Essas são algumas tecnologias que eu estou estudando:
   <br><br>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,visualstudio)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,visualstudio,bootstrap)](https://skillicons.dev)
 
   <br><br>
 ## Contact
